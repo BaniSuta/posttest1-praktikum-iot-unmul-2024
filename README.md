@@ -23,3 +23,6 @@ Komponen yang digunakan :
 3. ESP8266
 4. Bread Board
 5. Resistor
+
+Schematic :
+![Skematik](https://github.com/BaniSuta/posttest1-praktikum-iot-unmul-2024/assets/72733749/55df7574-47a3-4c23-922e-d81dbe32e49f)
